@@ -66,3 +66,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+h1 {
+  color: rgb(98, 212, 136);
+}
+
